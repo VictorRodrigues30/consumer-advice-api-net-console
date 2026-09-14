@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\bin\Debug\net8.0\ConsumerApiConsole.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\bin\Debug\net8.0\ConsumerApiConsole.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\bin\Debug\net8.0\ConsumerApiConsole.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\bin\Debug\net8.0\ConsumerApiConsole.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\bin\Debug\net8.0\ConsumerApiConsole.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\refint\ConsumerApiConsole.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ConsumerApiConsole.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Projetos\Prof. Daniel\Aula C#\ConsumerApiConsole\obj\Debug\net8.0\ref\ConsumerApiConsole.dll
